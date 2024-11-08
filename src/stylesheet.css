@@ -1,0 +1,238 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1 {
+        @apply mt-8 mb-4 clear-both text-2xl lg:text-5xl font-fancy font-bold uppercase text-primary;
+    }
+
+    h2 {
+        @apply mt-10 mb-2 clear-both text-2xl lg:text-4xl font-display font-bold text-primary border-primary border-b-2;
+    }
+
+    h3 {
+        @apply mt-6 clear-both text-2xl lg:text-4xl font-display font-bold text-primary;
+    }
+
+    h4 {
+        @apply mt-4 text-xl lg:text-2xl font-display font-bold text-primary;
+    }
+
+    h5 {
+        @apply mt-4 text-xl lg:text-2xl font-sans font-bold text-fg-light dark:text-fg-dark;
+    }
+
+    h6 {
+        @apply mt-4 text-xl lg:text-2xl font-sans text-fg-light dark:text-fg-dark;
+    }
+
+    p {
+        @apply mb-4 indent-10 leading-normal font-serif text-lg text-justify text-fg-light dark:text-fg-dark;
+    }
+
+    a {
+        @apply text-primary underline hover:brightness-150 focus:outline-none focus:brightness-150;
+    }
+
+    table {
+        @apply my-4 w-full font-serif text-lg text-fg-light dark:text-fg-dark text-center table-auto;
+
+        tr:nth-child(even) {
+            @apply bg-opacity-10 bg-black dark:bg-white dark:bg-opacity-10;
+        }
+
+        th,
+        td {
+            @apply px-2;
+        }
+
+        caption {
+            @apply text-left caption-bottom;
+        }
+    }
+
+    button {
+        @apply rounded duration-100 ease-in-out hover:brightness-150 focus:brightness-150 focus:outline-none active:bg-black active:bg-opacity-10 active:dark:bg-white active:dark:bg-opacity-10 active:shadow-inner active:shadow-black active:scale-90;
+    }
+
+    img {
+        @apply w-full my-2;
+    }
+
+    code {
+        @apply text-sm;
+    }
+}
+
+@layer components {
+    .paper {
+        @apply shadow-black shadow-lg bg-bg-light dark:bg-bg-dark;
+    }
+
+    .left-float {
+        @apply lg:float-left lg:mr-4 lg:mt-0 lg:w-auto lg:max-w-[512px];
+    }
+
+    .right-float {
+        @apply lg:float-right lg:ml-4 lg:mt-0 lg:w-auto lg:max-w-[512px];
+    }
+
+    .note {
+        @apply bg-black bg-opacity-20 dark:bg-white dark:bg-opacity-20 shadow-black shadow-md w-full p-4 my-2 leading-normal font-serif text-lg text-justify text-fg-light dark:text-fg-dark;
+
+        h5,
+        h6 {
+            @apply mt-0;
+        }
+
+        p {
+            @apply mb-0;
+        }
+    }
+
+    .note.left-float,
+    .note.right-float {
+        @apply lg:w-1/2;
+    }
+
+    button.pressed {
+        @apply bg-black bg-opacity-10 dark:bg-white dark:bg-opacity-10 shadow-inner shadow-black;
+    }
+
+    table.left-col-1 {
+        td:nth-child(1) {
+            @apply text-left;
+        }
+
+        th:nth-child(1):not(.title) {
+            @apply text-left;
+        }
+    }
+
+    table.left-col-2 {
+        td:nth-child(2) {
+            @apply text-left;
+        }
+
+        th:nth-child(2):not(.title) {
+            @apply text-left;
+        }
+    }
+
+    table.left-col-3 {
+        td:nth-child(3) {
+            @apply text-left;
+        }
+
+        th:nth-child(3):not(.title) {
+            @apply text-left;
+        }
+    }
+
+    table.left-col-4 {
+        td:nth-child(4) {
+            @apply text-left;
+        }
+
+        th:nth-child(4):not(.title) {
+            @apply text-left;
+        }
+    }
+
+    table.left-col-5 {
+        td:nth-child(5) {
+            @apply text-left;
+        }
+
+        th:nth-child(5):not(.title) {
+            @apply text-left;
+        }
+    }
+
+    table.center-col-1 {
+        td:nth-child(1) {
+            @apply text-center;
+        }
+
+        th:nth-child(1):not(.title) {
+            @apply text-center;
+        }
+    }
+
+    table.center-col-2 {
+        td:nth-child(2) {
+            @apply text-center;
+        }
+
+        th:nth-child(2):not(.title) {
+            @apply text-center;
+        }
+    }
+
+    table.center-col-3 {
+        td:nth-child(3) {
+            @apply text-center;
+        }
+
+        th:nth-child(3):not(.title) {
+            @apply text-center;
+        }
+    }
+
+    table.center-col-4 {
+        td:nth-child(4) {
+            @apply text-center;
+        }
+
+        th:nth-child(4):not(.title) {
+            @apply text-center;
+        }
+    }
+
+    table.center-col-5 {
+        td:nth-child(5) {
+            @apply text-center;
+        }
+
+        th:nth-child(5):not(.title) {
+            @apply text-center;
+        }
+    }
+
+    th.title {
+        @apply caption-top font-sans text-xl font-bold;
+    }
+}
+
+@layer utilities {
+    .text-shadow {
+        text-shadow:
+            0 0 0.125rem black,
+            0 0 0.125rem black,
+            0 0 0.125rem black,
+            0 0 0.125rem black,
+            0 0 1rem black,
+            0.25rem 0.25rem 1rem black,
+            -0.25rem 0.25rem 1rem black,
+            0.25rem -0.25rem 1rem black,
+            -0.25rem -0.25rem 1rem black,
+            0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.5),
+            -0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.5),
+            0.5rem -0.5rem 1rem rgba(0, 0, 0, 0.5),
+            -0.5rem -0.5rem 1rem rgba(0, 0, 0, 0.5);
+    }
+
+    .text-shadow-sm {
+        text-shadow:
+            0 0 0.125rem black,
+            0 0 0.125rem black,
+            0 0 0.125rem black,
+            0 0 0.125rem black,
+            0.25rem 0.25rem 1rem black,
+            -0.25rem 0.25rem 1rem black,
+            0.25rem -0.25rem 1rem black,
+            -0.25rem -0.25rem 1rem black,
+            0 0 1rem black;
+    }
+}

@@ -1,19 +1,19 @@
 {
-    "title": "Fantasy World Wiki",
+    "title": "Elwyn",
     "icon": "favicon.svg",
-    "defaultMap": "map1",
-    "enableCreditsPage": true,
+    "defaultMap": "elwyn",
+    "enableCreditsPage": false,
     "labels": {
-        "closeArticle": "Close",
-        "articlesIndexLink": "Articles",
-        "articlesIndex": "Articles Index",
-        "mapsIndexLink": "Maps",
-        "mapsIndex": "Maps Index",
-        "creditsLink": "Credits",
-        "darkMode": "Dark Mode",
-        "lightMode": "Light Mode",
-        "tableOfContents": "Table of Contents",
-        "loading": "Loading...",
-        "searchBarPlaceholder": "Search for..."
+        "closeArticle": "Fechar",
+        "articlesIndexLink": "Artigos",
+        "articlesIndex": "Índice de Artigos",
+        "mapsIndexLink": "Mapas",
+        "mapsIndex": "Índice de Mapas",
+        "creditsLink": "Créditos",
+        "darkMode": "Modo Escuro",
+        "lightMode": "Modo Claro",
+        "tableOfContents": "Índice",
+        "loading": "Carregando...",
+        "searchBarPlaceholder": "Pesquisar por..."
     }
 }

@@ -51,12 +51,14 @@ export function setMap(data) {
         if (link.size === "large")
             a.className = `
                 text-3xl lg:text-5xl svg-shadow font-fancy font-bold absolute
-                no-underline hover:hover-svg-shadow focus:hover-svg-shadow
+                uppercase no-underline hover:hover-svg-shadow
+                focus:hover-svg-shadow
             `;
         else if (link.size === "medium")
             a.className = `
                 text-2xl lg:text-3xl svg-shadow font-fancy font-bold absolute
-                no-underline hover:hover-svg-shadow focus:hover-svg-shadow
+                uppercase no-underline hover:hover-svg-shadow
+                focus:hover-svg-shadow
             `;
         else if (link.size === "small")
             a.className = `

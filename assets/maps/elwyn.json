@@ -1,0 +1,132 @@
+{
+    "name": "Elwyn",
+    "image": "elwyn-political.png",
+    "links": [
+        {
+            "name": "Elwyn",
+            "size": "large",
+            "toarticle": "elwyn",
+            "pos": {
+                "x": "76%",
+                "y": "6%"
+            }
+        },
+        {
+            "name": "Inis",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "15%",
+                "y": "54%"
+            }
+        },
+        {
+            "name": "Península Sól",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "58%",
+                "y": "42%"
+            }
+        },
+        {
+            "name": "Aedhan",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "48%",
+                "y": "18%"
+            }
+        },
+        {
+            "name": "Lochlaínn",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "64%",
+                "y": "15%"
+            }
+        },
+        {
+            "name": "Monteverde",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "89%",
+                "y": "24%"
+            }
+        },
+        {
+            "name": "Thainé",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "91%",
+                "y": "48%"
+            }
+        },
+        {
+            "name": "Cainnach",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "77%",
+                "y": "66%"
+            }
+        },
+        {
+            "name": "Lothlynn",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "52%",
+                "y": "74%"
+            }
+        },
+        {
+            "name": "Adanach",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "49%",
+                "y": "58%"
+            }
+        },
+        {
+            "name": "Garras do Mar",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "27%",
+                "y": "76%"
+            }
+        },
+        {
+            "name": "Dubsláine",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "31%",
+                "y": "40%"
+            }
+        },
+        {
+            "name": "Odaine Oeste",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "15%",
+                "y": "26%"
+            }
+        },
+        {
+            "name": "Odaine Leste",
+            "size": "medium",
+            "tomap": "elwyn",
+            "pos": {
+                "x": "31%",
+                "y": "18%"
+            }
+        }
+    ]
+}

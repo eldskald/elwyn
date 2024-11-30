@@ -1,0 +1,60 @@
+{
+    "name": "Península Sól",
+    "image": "sol-peninsula.png",
+    "links": [
+        {
+            "name": "Península Sól",
+            "size": "large",
+            "toarticle": "sol-peninsula",
+            "pos": {
+                "x": "42%",
+                "y": "21%"
+            }
+        },
+        {
+            "name": "Adanach",
+            "size": "medium",
+            "tomap": "adanach",
+            "pos": {
+                "x": "18%",
+                "y": "95%"
+            }
+        },
+        {
+            "name": "Sionánn",
+            "size": "medium",
+            "tomap": "sionann",
+            "pos": {
+                "x": "71%",
+                "y": "93%"
+            }
+        },
+        {
+            "name": "Aedhan",
+            "size": "medium",
+            "tomap": "aedhan",
+            "pos": {
+                "x": "14%",
+                "y": "8%"
+            }
+        },
+        {
+            "name": "Lochláinn",
+            "size": "medium",
+            "tomap": "lochlainn",
+            "pos": {
+                "x": "61%",
+                "y": "6%"
+            }
+        },
+        {
+            "name": "Esmeralda",
+            "size": "medium",
+            "tomap": "emerald",
+            "pos": {
+                "x": "90%",
+                "y": "22%"
+            }
+        }
+    ]
+}

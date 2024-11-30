@@ -1,0 +1,42 @@
+{
+    "name": "Lodaine do Oeste",
+    "image": "west-lodaine.png",
+    "links": [
+        {
+            "name": "Lodaine do Oeste",
+            "size": "large",
+            "toarticle": "west-lodaine",
+            "pos": {
+                "x": "21%",
+                "y": "39%"
+            }
+        },
+        {
+            "name": "Lodaine do Leste",
+            "size": "medium",
+            "tomap": "east-lodaine",
+            "pos": {
+                "x": "80%",
+                "y": "45%"
+            }
+        },
+        {
+            "name": "Dubsláine",
+            "size": "medium",
+            "tomap": "dubslaine",
+            "pos": {
+                "x": "78%",
+                "y": "84%"
+            }
+        },
+        {
+            "name": "Lothian",
+            "size": "medium",
+            "tomap": "lothian",
+            "pos": {
+                "x": "33%",
+                "y": "95%"
+            }
+        }
+    ]
+}

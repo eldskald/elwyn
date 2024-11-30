@@ -1,0 +1,33 @@
+{
+    "name": "Inis",
+    "image": "inis.png",
+    "links": [
+        {
+            "name": "Inis",
+            "size": "large",
+            "toarticle": "inis",
+            "pos": {
+                "x": "70%",
+                "y": "26%"
+            }
+        },
+        {
+            "name": "Esmeralda",
+            "size": "medium",
+            "tomap": "emerald",
+            "pos": {
+                "x": "57%",
+                "y": "8%"
+            }
+        },
+        {
+            "name": "Sionánn",
+            "size": "medium",
+            "tomap": "sionann",
+            "pos": {
+                "x": "32%",
+                "y": "86%"
+            }
+        }
+    ]
+}

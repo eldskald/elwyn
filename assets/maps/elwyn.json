@@ -12,9 +12,9 @@
             }
         },
         {
-            "name": "Inis",
+            "name": "Lothian",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "lothian",
             "pos": {
                 "x": "15%",
                 "y": "54%"
@@ -23,7 +23,7 @@
         {
             "name": "Península Sól",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "sol-peninsula",
             "pos": {
                 "x": "58%",
                 "y": "42%"
@@ -32,43 +32,43 @@
         {
             "name": "Aedhan",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "aedhan",
             "pos": {
                 "x": "48%",
                 "y": "18%"
             }
         },
         {
-            "name": "Lochlaínn",
+            "name": "Lochláinn",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "lochlainn",
             "pos": {
                 "x": "64%",
                 "y": "15%"
             }
         },
         {
-            "name": "Monteverde",
+            "name": "Esmeralda",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "emerald",
             "pos": {
                 "x": "89%",
                 "y": "24%"
             }
         },
         {
-            "name": "Thainé",
+            "name": "Inis",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "inis",
             "pos": {
                 "x": "91%",
                 "y": "48%"
             }
         },
         {
-            "name": "Cainnach",
+            "name": "Sionánn",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "sionann",
             "pos": {
                 "x": "77%",
                 "y": "66%"
@@ -77,7 +77,7 @@
         {
             "name": "Lothlynn",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "lothlynn",
             "pos": {
                 "x": "52%",
                 "y": "74%"
@@ -86,7 +86,7 @@
         {
             "name": "Adanach",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "adanach",
             "pos": {
                 "x": "49%",
                 "y": "58%"
@@ -95,7 +95,7 @@
         {
             "name": "Garras do Mar",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "seascar",
             "pos": {
                 "x": "27%",
                 "y": "76%"
@@ -104,25 +104,25 @@
         {
             "name": "Dubsláine",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "dubslaine",
             "pos": {
                 "x": "31%",
                 "y": "40%"
             }
         },
         {
-            "name": "Odaine Oeste",
+            "name": "Lodaine do Oeste",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "west-lodaine",
             "pos": {
                 "x": "15%",
                 "y": "26%"
             }
         },
         {
-            "name": "Odaine Leste",
+            "name": "Lodaine do Leste",
             "size": "medium",
-            "tomap": "elwyn",
+            "tomap": "east-lodaine",
             "pos": {
                 "x": "31%",
                 "y": "18%"

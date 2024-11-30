@@ -1,0 +1,42 @@
+{
+    "name": "Lothian",
+    "image": "lothian.png",
+    "links": [
+        {
+            "name": "Lothian",
+            "size": "large",
+            "toarticle": "lothian",
+            "pos": {
+                "x": "68%",
+                "y": "44%"
+            }
+        },
+        {
+            "name": "Garras do Mar",
+            "size": "medium",
+            "tomap": "seascar",
+            "pos": {
+                "x": "75%",
+                "y": "84%"
+            }
+        },
+        {
+            "name": "Dubsláine",
+            "size": "medium",
+            "tomap": "dubslaine",
+            "pos": {
+                "x": "88%",
+                "y": "31%"
+            }
+        },
+        {
+            "name": "Lodaine do Oeste",
+            "size": "medium",
+            "tomap": "west-lodaine",
+            "pos": {
+                "x": "58%",
+                "y": "5%"
+            }
+        }
+    ]
+}

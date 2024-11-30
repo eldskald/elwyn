@@ -1,0 +1,51 @@
+{
+    "name": "Aedhan",
+    "image": "aedhan.png",
+    "links": [
+        {
+            "name": "Aedhan",
+            "size": "large",
+            "toarticle": "aedhan",
+            "pos": {
+                "x": "35%",
+                "y": "23%"
+            }
+        },
+        {
+            "name": "Península Sól",
+            "size": "medium",
+            "tomap": "sol-peninsula",
+            "pos": {
+                "x": "78%",
+                "y": "95%"
+            }
+        },
+        {
+            "name": "Lodaine do Leste",
+            "size": "medium",
+            "tomap": "east-lodaine",
+            "pos": {
+                "x": "10%",
+                "y": "50%"
+            }
+        },
+        {
+            "name": "Dubsláine",
+            "size": "medium",
+            "tomap": "dubslaine",
+            "pos": {
+                "x": "19%",
+                "y": "84%"
+            }
+        },
+        {
+            "name": "Lochláinn",
+            "size": "medium",
+            "tomap": "lochlainn",
+            "pos": {
+                "x": "88%",
+                "y": "40%"
+            }
+        }
+    ]
+}

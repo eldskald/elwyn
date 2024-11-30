@@ -1,0 +1,52 @@
+{
+    "name": "Garras do Mar",
+    "image": "seascar.png",
+    "links": [
+        {
+            "name": "Garras do Mar",
+            "size": "large",
+            "toarticle": "seascar",
+            "pos": {
+                "x": "60%",
+                "y": "44%"
+            }
+        },
+        {
+            "name": "Lothian",
+            "size": "medium",
+            "tomap": "lothian",
+            "pos": {
+                "x": "40%",
+                "y": "12%"
+            }
+        },
+        {
+            "name": "Dubsláine",
+            "size": "medium",
+            "tomap": "dubslaine",
+            "pos": {
+                "x": "76%",
+                "y": "8%"
+            }
+        },
+        {
+            "name": "Adanach",
+            "size": "medium",
+            "tomap": "adanach",
+            "pos": {
+                "x": "90%",
+                "y": "18%"
+            }
+        },
+        {
+            "name": "Lothlynn",
+            "size": "medium",
+            "tomap": "lothlynn",
+            "pos": {
+                "x": "91%",
+                "y": "44%"
+            }
+        }
+
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Lothlynn",
+    "image": "lothlynn.png",
+    "links": [
+        {
+            "name": "Lothlynn",
+            "size": "large",
+            "toarticle": "lothlynn",
+            "pos": {
+                "x": "50%",
+                "y": "20%"
+            }
+        },
+        {
+            "name": "Adanach",
+            "size": "medium",
+            "tomap": "adanach",
+            "pos": {
+                "x": "20%",
+                "y": "5%"
+            }
+        },
+        {
+            "name": "Sionánn",
+            "size": "medium",
+            "tomap": "sionann",
+            "pos": {
+                "x": "90%",
+                "y": "10%"
+            }
+        },
+        {
+            "name": "Garras do Mar",
+            "size": "medium",
+            "tomap": "seascar",
+            "pos": {
+                "x": "10%",
+                "y": "55%"
+            }
+        }
+
+    ]
+}

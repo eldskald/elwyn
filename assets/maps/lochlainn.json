@@ -1,0 +1,42 @@
+{
+    "name": "Lochláinn",
+    "image": "lochlainn.png",
+    "links": [
+        {
+            "name": "Lochláinn",
+            "size": "large",
+            "toarticle": "lochlainn",
+            "pos": {
+                "x": "68%",
+                "y": "76%"
+            }
+        },
+        {
+            "name": "Aedhan",
+            "size": "medium",
+            "tomap": "aedhan",
+            "pos": {
+                "x": "5%",
+                "y": "40%"
+            }
+        },
+        {
+            "name": "Península Sól",
+            "size": "medium",
+            "tomap": "sol-peninsula",
+            "pos": {
+                "x": "12%",
+                "y": "95%"
+            }
+        },
+        {
+            "name": "Esmeralda",
+            "size": "medium",
+            "tomap": "emerald",
+            "pos": {
+                "x": "92%",
+                "y": "80%"
+            }
+        }
+    ]
+}

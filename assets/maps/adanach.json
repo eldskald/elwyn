@@ -1,0 +1,60 @@
+{
+    "name": "Adanach",
+    "image": "adanach.png",
+    "links": [
+        {
+            "name": "Adanach",
+            "size": "large",
+            "toarticle": "adanach",
+            "pos": {
+                "x": "50%",
+                "y": "50%"
+            }
+        },
+        {
+            "name": "Península Sól",
+            "size": "medium",
+            "tomap": "sol-peninsula",
+            "pos": {
+                "x": "72%",
+                "y": "20%"
+            }
+        },
+        {
+            "name": "Lothlynn",
+            "size": "medium",
+            "tomap": "lothlynn",
+            "pos": {
+                "x": "57%",
+                "y": "84%"
+            }
+        },
+        {
+            "name": "Sionánn",
+            "size": "medium",
+            "tomap": "sionann",
+            "pos": {
+                "x": "90%",
+                "y": "78%"
+            }
+        },
+        {
+            "name": "Garras do Mar",
+            "size": "medium",
+            "tomap": "seascar",
+            "pos": {
+                "x": "11%",
+                "y": "80%"
+            }
+        },
+        {
+            "name": "Dubsláine",
+            "size": "medium",
+            "tomap": "dubslaine",
+            "pos": {
+                "x": "10%",
+                "y": "40%"
+            }
+        }
+    ]
+}

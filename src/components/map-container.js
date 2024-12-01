@@ -51,8 +51,8 @@ export function setMap(data) {
         if (link.size === "large")
             a.className = `
                 text-3xl lg:text-5xl svg-shadow font-fancy font-bold absolute
-                uppercase no-underline hover:hover-svg-shadow
-                focus:hover-svg-shadow
+                no-underline hover:hover-svg-shadow focus:hover-svg-shadow
+                uppercase
             `;
         else if (link.size === "medium")
             a.className = `

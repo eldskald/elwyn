@@ -2,9 +2,11 @@
     "title": "Elwyn",
     "icon": "favicon.svg",
     "defaultMap": "elwyn",
+    "initialArticle": "elwyn",
     "enableCreditsPage": false,
     "labels": {
         "closeArticle": "Fechar",
+        "homeLink": "Início",
         "articlesIndexLink": "Artigos",
         "articlesIndex": "Índice de Artigos",
         "mapsIndexLink": "Mapas",

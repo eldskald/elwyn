@@ -55,6 +55,125 @@
                 "x": "90%",
                 "y": "22%"
             }
+        },
+        {
+            "name": "Cidadela de Ouro",
+            "size": "medium",
+            "toarticle": "citadel-of-gold",
+            "pos": {
+                "x": "51%",
+                "y": "36.5%"
+            }
+        },
+        {
+            "name": "Mar das Aroanas",
+            "size": "medium",
+            "toarticle": "sea-of-arwans",
+            "pos": {
+                "x": "75%",
+                "y": "60%"
+            }
+        },
+        {
+            "name": "Montanhas Dána",
+            "size": "small",
+            "toarticle": "dana-mountains",
+            "radius": 100,
+            "rotation": 20,
+            "pos": {
+                "x": "35%",
+                "y": "37%"
+            }
+        },
+        {
+            "name": "Vale dos Fundos",
+            "size": "small",
+            "toarticle": "backdoor-valley",
+            "rotation": 30,
+            "radius": 200,
+            "pos": {
+                "x": "31%",
+                "y": "45.7%"
+            }
+        },
+        {
+            "name": "Mata das Aroanas",
+            "size": "small",
+            "toarticle": "arwan-woods",
+            "radius": -120,
+            "rotation": 20,
+            "pos": {
+                "x": "33%",
+                "y": "68%"
+            }
+        },
+        {
+            "name": "Rio Carvalho",
+            "size": "small",
+            "toarticle": "oak-river",
+            "radius": 150,
+            "pos": {
+                "x": "27%",
+                "y": "61%"
+            }
+        },
+        {
+            "name": "Vila Bambuzal",
+            "size": "medium",
+            "toarticle": "bamboo-grove-village",
+            "pos": {
+                "x": "20%",
+                "y": "55%"
+            }
+        },
+        {
+            "name": "Vila Luminar Morell",
+            "size": "medium",
+            "toarticle": "luminary-morell-village",
+            "pos": {
+                "x": "43%",
+                "y": "56%"
+            }
+        },
+        {
+            "name": "Baía Repouso",
+            "size": "small",
+            "toarticle": "repose-bay",
+            "rotation": -70,
+            "radius": 80,
+            "pos": {
+                "x": "45%",
+                "y": "63%"
+            }
+        },
+        {
+            "name": "Penhascos Ventanhia",
+            "size": "small",
+            "toarticle": "highwind-cliffs",
+            "rotation": 60,
+            "radius": -150,
+            "pos": {
+                "x": "43%",
+                "y": "48%"
+            }
+        },
+        {
+            "name": "Pântano Idallán",
+            "size": "small",
+            "toarticle": "idallan-swamp",
+            "pos": {
+                "x": "36%",
+                "y": "92%"
+            }
+        },
+        {
+            "name": "Clã O'Briúnn",
+            "size": "medium",
+            "toarticle": "clan-obriunn",
+            "pos": {
+                "x": "40%",
+                "y": "84%"
+            }
         }
     ]
 }

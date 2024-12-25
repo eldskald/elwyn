@@ -6,6 +6,8 @@
     "enableCreditsPage": false,
     "labels": {
         "closeArticle": "Fechar",
+        "minimizeArticle": "Minimizar",
+        "maximizeArticle": "Maximizar",
         "homeLink": "Início",
         "articlesIndexLink": "Artigos",
         "articlesIndex": "Índice de Artigos",

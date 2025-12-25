@@ -3,7 +3,7 @@
     "icon": "favicon.svg",
     "defaultMap": "elwyn",
     "initialArticle": "elwyn",
-    "enableCreditsPage": false,
+    "enableCreditsPage": true,
     "labels": {
         "closeArticle": "Fechar",
         "minimizeArticle": "Minimizar",
